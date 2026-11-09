@@ -1,0 +1,24 @@
+slug: webstudydrive
+name: WebStudyDrive
+tagline: Kho tài liệu học tập trên Google Drive
+url: https://github.com/thangvt-food/WebStudyDrive
+status: paused
+visibility: private
+description: Web React + Firebase quản lý và chia sẻ tài liệu học tập, có admin panel và blueprint.
+tags:
+  - tài-liệu
+  - học-tập
+  - google-drive
+category: learning
+tech:
+  - react
+  - vite
+  - firebase
+hosting: firebase-hosting
+updated: '2025-10-07'
+version: 0.0.0
+icon: 📁
+auth: login
+links:
+  repo: https://github.com/thangvt-food/WebStudyDrive
+notes: Repo public, có firebase.json; chưa có URL deploy.
